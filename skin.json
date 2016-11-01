@@ -1,6 +1,6 @@
 {
   "general": {
-    "watermark": {"imageResource": {"url": "http://www.chazdavis.com/wp-content/themes/neoclassical/images/ooyala_logo.png","androidResource" : "logo","iosResource" : "logo"  }, 
+    "watermark": {"imageResource": {"url": "http://www.ooyala.com/sites/ooyala.com/files/Ooyala_col_rev_flat_rgb.png","androidResource" : "logo","iosResource" : "logo"  }, 
                   "position": "bottomRight",
                   "clickUrl": "http://www.freebsd.org",
                   "target": "_blank",
