@@ -5,8 +5,8 @@
                   "clickUrl": "http://www.freebsd.org",
                   "target": "_blank",
                   "transparency": 0.5,
-                  "scalingOption": "default",
-                  "scalingPercentage": 77
+                  "scalingOption": "width",
+                  "scalingPercentage": 20
     },
     "loadingImage": {"imageResource": {"url": "//player.ooyala.com/static/v4/candidate/latest/skin-plugin/assets/images/loader_svg.svg" } }
   },
