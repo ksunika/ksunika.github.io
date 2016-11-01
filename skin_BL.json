@@ -1,11 +1,11 @@
 {
   "general": {
     "watermark": {"imageResource": {"url": "http://www.ooyala.com/sites/ooyala.com/files/Ooyala_col_rev_flat_rgb.png","androidResource" : "logo","iosResource" : "logo"  }, 
-                  "position": "bottomRight",
+                  "position": "bottomLeft",
                   "clickUrl": "http://www.freebsd.org",
                   "target": "_blank",
                   "transparency": 0.5,
-                  "scalingOption": "default",
+                  "scalingOption": "width",
                   "scalingPercentage": 15
     },
     "loadingImage": {"imageResource": {"url": "//player.ooyala.com/static/v4/candidate/latest/skin-plugin/assets/images/loader_svg.svg" } }
